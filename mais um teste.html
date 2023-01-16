@@ -1,0 +1,30 @@
+<html>
+    <head>
+        <title>Mais um</title>
+        <link href="wma.css" type="text/css" rel="stylesheet">
+    </head>
+    <body>
+        <form id="contatoForm" method="get" action="emylysantosguitar@gmail.com" target="_blank">
+            <input type="hidden" name="Subject" value="Meu assunto">
+            <input type="hidden" name="Body" value="">
+            <input class="cells" type="text" id="name" name="nome" placeholder="nome">
+            <input class="cells" type="text" name="email" placeholder="email">
+            <button type="submit" onclick="Enviar()" id="enviar"><a href="WMA.html">Enviar</a></button>
+        </form>
+        <script>
+            document.getElementById('contatoForm').addEventListener('submit', function () {
+                var nome = this.querySelector('input[name=nome]'), nome = nome.value;
+                var email = this.querySelector('input[name=email]'), email = email.value;
+                var texto = 'Olá destinatário, \nMeu nome é '+ nome +' e meu email é '+ email;
+                this.querySelector('input[name=Body]').setAttribute('value', texto);
+            });
+
+            function Enviar() {
+                var nome = document.getElementById("name");
+                if (nome.value != "") {
+                    alert('Obrigado sr(a) ' + nome.value + ' os seus dados foram encaminhados com sucesso');
+                }
+            }
+        </script>
+    </body>
+</html>
