@@ -17,11 +17,13 @@ Layout simples, mas funcional, adequado às necessidades da empresa na época.
 
 
 **Desafios e Aprendizados**
-Este projeto foi um divisor de águas no meu aprendizado:
 
-- Desenvolvi o site sozinha, o que me desafiou a buscar soluções e adquirir conhecimentos através de pesquisa.
-- Aprendi conceitos fundamentais de desenvolvimento web e organização de projetos.
-- Embora não seja responsivo, o site foi uma excelente base para entender as necessidades de desenvolvimento para o mundo real.
+- Este projeto foi um divisor de águas no meu aprendizado:
+
+  - Desenvolvi o site sozinha, o que me desafiou a buscar soluções e adquirir conhecimentos através de pesquisa.
+  - Aprendi conceitos fundamentais de desenvolvimento web e organização de projetos.
+  - Embora não seja responsivo, o site foi uma excelente base para entender as necessidades de desenvolvimento para o mundo real.
   
 **Objetivo**
+
 A primeira versão do site da WMA Martelinho de Ouro foi uma oportunidade incrível para colocar na prática o que eu estava aprendendo e criando algo útil para uma empresa. Ele também me ajudou a consolidar conhecimentos que levaram ao desenvolvimento da segunda versão, mais moderna e responsiva.
