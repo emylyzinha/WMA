@@ -1,10 +1,10 @@
-**WMA Martelinho de Ouro (Versão 1)**
+# **WMA Martelinho de Ouro (Versão 1)**
 
 Este projeto marca minha primeira experiência desenvolvendo um site para o mundo real. Foi criado durante o meu primeiro ano no curso técnico em informática e serviu como um grande aprendizado, tanto técnico quanto pessoal.
 
-**Características do Projeto**
+### **Características do Projeto**
 
-- Tecnologias Utilizadas: HTML, CSS e JavaScript.
+**- Tecnologias Utilizadas:** HTML, CSS e JavaScript.
 
 **Estrutura do Site:**
   - Início: Página inicial com informações gerais.
@@ -16,7 +16,7 @@ Este projeto marca minha primeira experiência desenvolvendo um site para o mund
 Layout simples, mas funcional, adequado às necessidades da empresa na época.
 
 
-**Desafios e Aprendizados**
+### **Desafios e Aprendizados**
 
 - Este projeto foi um divisor de águas no meu aprendizado:
 
@@ -24,6 +24,6 @@ Layout simples, mas funcional, adequado às necessidades da empresa na época.
   - Aprendi conceitos fundamentais de desenvolvimento web e organização de projetos.
   - Embora não seja responsivo, o site foi uma excelente base para entender as necessidades de desenvolvimento para o mundo real.
   
-**Objetivo**
+### **Objetivo**
 
 A primeira versão do site da WMA Martelinho de Ouro foi uma oportunidade incrível para colocar na prática o que eu estava aprendendo e criando algo útil para uma empresa. Ele também me ajudou a consolidar conhecimentos que levaram ao desenvolvimento da segunda versão, mais moderna e responsiva.
